@@ -9,4 +9,4 @@ if (numberOfWeek == 4) Console.WriteLine("Четверг");
 if (numberOfWeek == 5) Console.WriteLine("Пятница");
 if (numberOfWeek == 6) Console.WriteLine("Суббота");
 if (numberOfWeek == 7) Console.WriteLine("Воскресенье");
-if (numberOfWeek > 7) Console.WriteLine("Нет такого дня недели");
+if (numberOfWeek > 7 || number) {Console.WriteLine("Нет такого дня недели");
