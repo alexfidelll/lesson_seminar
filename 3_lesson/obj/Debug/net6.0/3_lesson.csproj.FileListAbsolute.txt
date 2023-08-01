@@ -1,0 +1,15 @@
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\bin\Debug\net6.0\3_lesson.exe
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\bin\Debug\net6.0\3_lesson.deps.json
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\bin\Debug\net6.0\3_lesson.runtimeconfig.json
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\bin\Debug\net6.0\3_lesson.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\bin\Debug\net6.0\3_lesson.pdb
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.csproj.AssemblyReference.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.AssemblyInfoInputs.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.AssemblyInfo.cs
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.csproj.CoreCompileInputs.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\refint\3_lesson.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.pdb
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\3_lesson.genruntimeconfig.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\c# Вебинары\3_lesson\obj\Debug\net6.0\ref\3_lesson.dll
